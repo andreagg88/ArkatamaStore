@@ -1,4 +1,3 @@
-
 # ArkatamaStore
 
 ANDRE AGUNG FSWD1
@@ -7,20 +6,10 @@ ANDRE AGUNG FSWD1
 2. sudah memiliki tampilan admin
 3. sudah bisa login admin
 4. sudah bisa CRUD produk pada halaman admin menggunakan database (dinamis)
-.
-.
-* tampilan user dan admin belum selesai, masih banyak perbaikan dari materi konten, warna, dan sebagainya
+5. sudah memiliki tampilan manager
+6. sudah bisa crud kategori dan hero di halaman admin menggunakan database.
+7. manager sudah dapat menggunakan fitur setujui dan tidak setujui pada halaman admin manager.
+8. sudah bisa mencari data sesuai kategori, nama, dan harga.
+9. telah menyelesaikan semua persyaratan Tugas Akhir sesuai studi kasus yang diberikan.
 
-User Interface
-![image](https://user-images.githubusercontent.com/96340363/205666981-fa47d3ba-14bd-4b2c-88d9-feb726ba36ed.png)
-![image](https://user-images.githubusercontent.com/96340363/205666839-70227718-a181-4c23-a92e-aa3b93d33395.png)
-
-Admin Interface
-![image](https://user-images.githubusercontent.com/96340363/205667462-4eb373e8-342b-410d-a844-60a3a22572a6.png)
-
-<<<<<<< HEAD
-=======
-=======
-# ArkatamaStore
->>>>>>> 09f7b03 (Arkatama Store)
->>>>>>> 534eea4 (ASS)
+link url web : https://arkatamastoree.000webhostapp.com/
