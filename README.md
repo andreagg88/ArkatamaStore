@@ -4,7 +4,7 @@ ANDRE AGUNG FSWD1
 
 1. sudah memiliki tampilan user
 2. sudah memiliki tampilan admin
-3. sudah bisa login admin
+3. sudah bisa login admin dan manager
 4. sudah bisa CRUD produk pada halaman admin menggunakan database (dinamis)
 5. sudah memiliki tampilan manager
 6. sudah bisa crud kategori dan hero di halaman admin menggunakan database.
